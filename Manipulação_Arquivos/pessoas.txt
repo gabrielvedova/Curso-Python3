@@ -1,0 +1,6 @@
+Nome: ﻿Maria Idade: 45
+Nome: João Idade: 23
+Nome: Paulo Idade: 63
+Nome: Gabriel Idade: 14
+Nome: Fernanda Idade: 32
+Nome: Claudio Idade: 59
